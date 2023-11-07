@@ -4,7 +4,7 @@ Pao server.
 ## Installation
 Github:
 ```
-git clone https://github.com/cspi-git/pao-server
+git clone https://github.com/I2rys/pao-server
 ```
 
 NpmJS:
